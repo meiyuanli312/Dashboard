@@ -1,0 +1,252 @@
+ENTITY,ENTITY,ACTUAL YEAR,RECORDS LOST,ORGANISATION,METHOD OF LEAK,DATA SENSITIVITY,Symbol
+AOL,AOL,2004,92000000,web,inside job,1,{}
+Automatic Data Processing,Automatic Data Processing,2005,125000,financial,poor security,20,ADP
+Ameritrade Inc.,Ameritrade Inc.,2005,200000,financial,lost / stolen device,20,[]
+Citigroup,Citigroup,2005,3900000,financial,lost / stolen device,300,C
+Cardsystems Solutions Inc. ,Cardsystems Solutions Inc. ,2005,40000000,financial,hacked,300,[]
+Hewlett Packard,Hewlett Packard,2006,200000,"tech, retail",lost / stolen device,20,HPQ
+Countrywide Financial Corp,Countrywide Financial Corp,2006,2600000,financial,inside job,300,[]
+KDDI,KDDI,2006,4000000,telecoms,hacked,1,{}
+"T-Mobile, Deutsche Telecom","T-Mobile, Deutsche Telecom",2006,17000000,telecoms,lost / stolen device,1,[]
+AOL,AOL,2006,20000000,web,accidentally published,1,{}
+US Dept of Vet Affairs,US Dept of Vet Affairs,2006,26500000,"government, military",lost / stolen device,20,[]
+Texas Lottery,Texas Lottery,2007,89000,government,inside job,20,[]
+City and Hackney Teaching Primary Care Trust,City and Hackney Teaching Primary Care Trust,2007,160000,government,lost / stolen device,20,[]
+Gap Inc,Gap Inc,2007,800000,retail,lost / stolen device,20,GPS
+Compass Bank,Compass Bank,2007,1000000,financial,inside job,300,[]
+Monster.com,Monster.com,2007,1600000,web,hacked,20,[]
+Driving Standards Agency,Driving Standards Agency,2007,3000000,government,lost / stolen device,20,[]
+"Driving Standards Agency,","Driving Standards Agency,",2007,3000000,government,lost / stolen device,20,[]
+Hannaford Brothers Supermarket Chain,Hannaford Brothers Supermarket Chain,2007,4200000,retail,hacked,300,[]
+TD Ameritrade,TD Ameritrade,2007,6300000,financial,hacked,1,AMTD
+Fidelity National Information Services,Fidelity National Information Services,2007,8500000,financial,inside job,300,FIS
+Dai Nippon Printing,Dai Nippon Printing,2007,8637405,retail,inside job,1,{}
+UK Revenue & Customs,UK Revenue & Customs,2007,25000000,government,lost / stolen device,1,[]
+TK / TJ Maxx,TK / TJ Maxx,2007,94000000,retail,hacked,300,[]
+Service Personnel and Veterans Agency (UK),Service Personnel and Veterans Agency (UK),2008,50500,government,lost / stolen device,20,[]
+Stanford University,Stanford University,2008,72000,academic,lost / stolen device,20,[]
+UK Home Office,UK Home Office,2008,84000,government,lost / stolen device,20,[]
+AT&T,AT&T,2008,113000,telecoms,lost / stolen device,1,T
+Starbucks,Starbucks,2008,97000,retail,lost / stolen device,20,SBUX
+RBS Worldpay,RBS Worldpay,2008,1500000,financial,hacked,20,[]
+Jefferson County,Jefferson County,2008,1600000,government,accidentally published,20,[]
+UK Ministry of Defence,UK Ministry of Defence,2008,1700000,government,lost / stolen device,50000,[]
+University of Miami,University of Miami,2008,2100000,academic,lost / stolen device,300,{}
+University of Utah Hospitals & Clinics,University of Utah Hospitals & Clinics,2008,2200000,academic,lost / stolen device,4000,[]
+Norwegian Tax Authorities,Norwegian Tax Authorities,2008,3950000,government,accidentally published,20,[]
+Data Processors International,Data Processors International,2008,5000000,financial,hacked,1,[]
+Chile Ministry Of Education,Chile Ministry Of Education,2008,6000000,government,hacked,1,[]
+GS Caltex,GS Caltex,2008,11100000,energy,inside job,20,[]
+BNY Mellon Shareowner Services,BNY Mellon Shareowner Services,2008,12500000,financial,lost / stolen device,1,[]
+Auction.co.kr,Auction.co.kr,2008,18000000,web,hacked,300,[]
+US Dept of Defense,US Dept of Defense,2009,72000,military,lost / stolen device,20,[]
+US National Guard,US National Guard,2009,131000,military,lost / stolen device,20,[]
+University of California Berkeley,University of California Berkeley,2009,160000,academic,hacked,300,[]
+"Affinity Health Plan, Inc.","Affinity Health Plan, Inc.",2009,344579,healthcare,lost / stolen device,4000,[]
+Virginia Prescription Monitoring Program,Virginia Prescription Monitoring Program,2009,531400,healthcare,hacked,20,[]
+Network Solutions,Network Solutions,2009,573000,tech,hacked,300,{}
+Blue Cross Blue Shield of Tennessee,Blue Cross Blue Shield of Tennessee,2009,1023209,healthcare,lost / stolen device,20,[]
+"AvMed, Inc.","AvMed, Inc.",2009,1220000,healthcare,lost / stolen device,20,[]
+Health Net ,Health Net ,2009,1500000,healthcare,lost / stolen device,4000,{}
+CheckFree Corporation,CheckFree Corporation,2009,5000000,financial,hacked,1,[]
+Virginia Dept. Of Health,Virginia Dept. Of Health,2009,8257378,"government, healthcare",hacked,4000,[]
+RockYou!,RockYou!,2009,32000000,"web, gaming",hacked,1,[]
+US Military,US Military,2009,76000000,military,lost / stolen device,20,[]
+Heartland,Heartland,2009,130000000,financial,hacked,300,HTLD
+Yale University,Yale University,2010,43000,academic,accidentally published,20,[]
+AT&T,AT&T,2010,114000,telecoms,hacked,1,T
+Colorado government,Colorado government,2010,105470,healthcare,lost / stolen device,20,[]
+Lincoln Medical & Mental Health Center,Lincoln Medical & Mental Health Center,2010,130495,healthcare,lost / stolen device,4000,[]
+"Ankle & foot Center of Tampa Bay, Inc.","Ankle & foot Center of Tampa Bay, Inc.",2010,156000,healthcare,hacked,4000,[]
+"Emergency Healthcare Physicians, Ltd.","Emergency Healthcare Physicians, Ltd.",2010,180111,healthcare,lost / stolen device,4000,[]
+"Seacoast Radiology, PA","Seacoast Radiology, PA",2010,231400,healthcare,hacked,20,[]
+Embassy Cables,Embassy Cables,2010,251000,government,inside job,50000,[]
+US Military,US Military,2010,260000,military,inside job,50000,[]
+US Federal Reserve Bank of Cleveland,US Federal Reserve Bank of Cleveland,2010,400000,financial,hacked,300,[]
+Classified Iraq War documents,Classified Iraq War documents,2010,392000,government,inside job,20,[]
+"Triple-S Salud, Inc.","Triple-S Salud, Inc.",2010,398000,healthcare,lost / stolen device,4000,[]
+Puerto Rico Department of Health,Puerto Rico Department of Health,2010,515000,healthcare,hacked,4000,[]
+Ohio State University,Ohio State University,2010,760000,academic,hacked,20,[]
+"South Shore Hospital, Massachusetts","South Shore Hospital, Massachusetts",2010,800000,healthcare,lost / stolen device,50000,[]
+Gawker.com,Gawker.com,2010,1500000,web,hacked,20,[]
+New York City Health & Hospitals Corp.,New York City Health & Hospitals Corp.,2010,1700000,healthcare,lost / stolen device,4000,[]
+Betfair,Betfair,2010,2300000,web,hacked,300,{}
+JP Morgan Chase,JP Morgan Chase,2010,2600000,financial,lost / stolen device,300,JPM
+Educational Credit Management Corp,Educational Credit Management Corp,2010,3300000,financial,lost / stolen device,20,[]
+Morgan Stanley Smith Barney,Morgan Stanley Smith Barney,2011,34000,financial,lost / stolen device,300,[]
+US Army,US Army,2011,50000,military,accidentally published,1,[]
+Writerspace.com,Writerspace.com,2011,62000,web,hacked,1,[]
+University of Wisconsin - Milwaukee,University of Wisconsin - Milwaukee,2011,73000,academic,hacked,20,[]
+Memorial Healthcare System,Memorial Healthcare System,2011,102153,healthcare,lost / stolen device,20,[]
+US Law Enforcement,US Law Enforcement,2011,123461,government,hacked,300,[]
+San Francisco Public Utilities Commission ,San Francisco Public Utilities Commission ,2011,180000,government,hacked,1,[]
+Accendo Insurance Co. ,Accendo Insurance Co. ,2011,175350,healthcare,poor security,20,[]
+Bethesda Game Studios,Bethesda Game Studios,2011,200000,gaming,hacked,1,[]
+Restaurant Depot,Restaurant Depot,2011,200000,retail,hacked,300,[]
+Massachusetts Government,Massachusetts Government,2011,210000,government,hacked,50000,[]
+Southern California Medical-Legal Consultants,Southern California Medical-Legal Consultants,2011,300000,healthcare,hacked,20,[]
+Honda Canada,Honda Canada,2011,283000,retail,hacked,20,[]
+Citigroup,Citigroup,2011,360083,financial,hacked,300,C
+Spartanburg Regional Healthcare System,Spartanburg Regional Healthcare System,2011,400000,healthcare,lost / stolen device,4000,[]
+Eisenhower Medical Center,Eisenhower Medical Center,2011,514330,healthcare,lost / stolen device,4000,[]
+Stratfor,Stratfor,2011,935000,military,hacked,300,{}
+Sony Pictures,Sony Pictures,2011,1000000,web,hacked,1,[]
+Oregon Department of Motor Vehicles,Oregon Department of Motor Vehicles,2011,1000000,government,hacked,20,[]
+Nemours Foundation,Nemours Foundation,2011,1055489,healthcare,lost / stolen device,4000,[]
+Sega,Sega,2011,1290755,gaming,hacked,20,{}
+Washington Post,Washington Post,2011,1270000,media,hacked,20,[]
+Health Net - IBM,Health Net - IBM,2011,1900000,healthcare,lost / stolen device,300,[]
+Countrywide Financial Corp,Countrywide Financial Corp,2011,2500000,financial,inside job,20,[]
+State of Texas,State of Texas,2011,3500000,government,accidentally published,20,[]
+Sutter Medical Foundation,Sutter Medical Foundation,2011,4243434,healthcare,lost / stolen device,20,[]
+Tricare,Tricare,2011,4901432,"military, healthcare",lost / stolen device,4000,[]
+China Software Developer Network,China Software Developer Network,2011,6000000,web,hacked,1,[]
+NHS,NHS,2011,8300000,healthcare,lost / stolen device,4000,{}
+178.com,178.com,2011,10000000,web,hacked,1,[]
+Nexon Korea Corp,Nexon Korea Corp,2011,13200000,web,hacked,20,[]
+Sony Online Entertainment,Sony Online Entertainment,2011,24600000,gaming,hacked,300,[]
+Tianya,Tianya,2011,28000000,web,hacked,1,[]
+Steam,Steam,2011,35000000,web,hacked,300,{}
+Sony PSN,Sony PSN,2011,77000000,gaming,hacked,1,[]
+Dropbox,Dropbox,2012,30000,web,hacked,1,[]
+Militarysingles.com,Militarysingles.com,2012,163792,"web, military",hacked,1,[]
+South Carolina Government,South Carolina Government,2012,6400000,healthcare,inside job,4000,[]
+Emory Healthcare,Emory Healthcare,2012,315000,healthcare,lost / stolen device,4000,[]
+Formspring,Formspring,2012,420000,web,hacked,1,[]
+Yahoo Voices,Yahoo Voices,2012,450000,"tech, web",hacked,1,[]
+Medicaid,Medicaid,2012,780000,"government, healthcare",hacked,20,[]
+California Department of Child Support Services,California Department of Child Support Services,2012,800000,government,lost / stolen device,20,[]
+Global Payments,Global Payments,2012,7000000,financial,hacked,300,GPN
+New York State Electric & Gas,New York State Electric & Gas,2012,1800000,energy,inside job,20,[]
+Three Iranian banks,Three Iranian banks,2012,3000000,financial,hacked,50000,[]
+Office of the Texas Attorney General,Office of the Texas Attorney General,2012,6500000,government,accidentally published,20,[]
+"LinkedIn, eHarmony, Last.fm","LinkedIn, eHarmony, Last.fm",2012,8000000,web,hacked,1,[]
+Gamigo,Gamigo,2012,8000000,web,hacked,1,[]
+KT Corp.,KT Corp.,2012,8700000,telecoms,hacked,20,{}
+Greek government,Greek government,2012,9000000,government,hacked,20,[]
+"""Apple""","""Apple""",2012,12367232,"tech, retail",accidentally published,20,[]
+Blizzard,Blizzard,2012,14000000,gaming,hacked,20,ATVI
+Zappos,Zappos,2012,24000000,web,hacked,20,[]
+Last.fm,Last.fm,2012,43500000,web,hacked,1,[]
+Dropbox,Dropbox,2012,68700000,web,hacked,1,[]
+Massive American business hack,Massive American business hack,2012,160000000,financial,hacked,50000,[]
+Court Ventures,Court Ventures,2012,200000000,financial,inside job,20,{}
+LinkedIn,LinkedIn,2012,117000000,web,hacked,1,{}
+South Carolina State Dept. of Revenue,South Carolina State Dept. of Revenue,2012,3600000,government,hacked,3,[]
+Central Hudson Gas & Electric,Central Hudson Gas & Electric,2013,110000,energy,hacked,300,[]
+"Crescent Health Inc., Walgreens","Crescent Health Inc., Walgreens",2013,100000,healthcare,lost / stolen device,4000,[]
+Florida Courts,Florida Courts,2013,100000,government,lost / stolen device,20,[]
+Florida Department of Juvenile Justice,Florida Department of Juvenile Justice,2013,100000,government,lost / stolen device,20,[]
+Kirkwood Community College,Kirkwood Community College,2013,125000,academic,hacked,20,[]
+Citigroup,Citigroup,2013,150000,financial,accidentally published,20,C
+Indiana University,Indiana University,2013,146000,academic,poor security,20,[]
+Washington State court system,Washington State court system,2013,160000,government,hacked,20,[]
+TerraCom & YourTel,TerraCom & YourTel,2013,170000,telecoms,accidentally published,20,{}
+Nintendo,Nintendo,2013,240000,gaming,hacked,20,{}
+Twitter,Twitter,2013,250000,web,hacked ,1,TWTR
+Apple,Apple,2013,275000,tech,hacked,1,AAPL
+Scribd,Scribd,2013,500000,web,hacked,1,[]
+Drupal,Drupal,2013,1000000,web,hacked,1,[]
+NMBS,NMBS,2013,1460000,transport,accidentally published,20,{}
+National Security Agency,National Security Agency,2013,1500000,government,inside job,50000,[]
+Kissinger Cables,Kissinger Cables,2013,1700000,government,inside job,300,[]
+Ubuntu,Ubuntu,2013,2000000,tech,hacked,300,[]
+Vodafone,Vodafone,2013,2000000,telecoms,inside job,300,VOD
+ssndob.ms,ssndob.ms,2013,4000000,web,hacked,20,[]
+Advocate Medical Group,Advocate Medical Group,2013,4000000,healthcare,lost / stolen device,20,[]
+SnapChat,SnapChat,2013,4700000,"web, tech",hacked,20,[]
+Facebook,Facebook,2013,6000000,web,accidentally published,1,FB
+Yahoo Japan,Yahoo Japan,2013,22000000,"tech, web",hacked,1,{}
+Adobe,Adobe,2013,36000000,tech,hacked,50000,ADBE
+Evernote,Evernote,2013,50000000,web,hacked,1,[]
+Living Social,Living Social,2013,50000000,web,hacked,1,[]
+Yahoo,Yahoo,2013,1000000000,web,hacked,20,AABA
+Tumblr,Tumblr,2013,65000000,web,hacked,1,[]
+New York Taxis,New York Taxis,2014,52000,transport,poor security,1,[]
+NASDAQ,NASDAQ,2014,500000,financial,hacked,1,NDAQ
+Dominios Pizzas (France),Dominios Pizzas (France),2014,600000,web,hacked,1,[]
+Japan Airlines,Japan Airlines,2014,750000,transport,hacked,20,{}
+Mozilla,Mozilla,2014,76000,web,poor security,20,[]
+MacRumours.com,MacRumours.com,2014,860000,web,hacked,1,[]
+"D&B, Altegrity","D&B, Altegrity",2014,1000000,tech,hacked,300,D
+Neiman Marcus,Neiman Marcus,2014,1100000,retail,hacked,20,[]
+Staples,Staples,2014,1160000,retail,hacked,300,SPLS
+European Central Bank,European Central Bank,2014,4000000,financial,hacked,1,[]
+UPS,UPS,2014,4000000,retail,hacked,300,UPS
+Community Health Systems,Community Health Systems,2014,4500000,healthcare,hacked,20,CYH
+"""Gmail""","""Gmail""",2014,5000000,web,hacked,1,[]
+Sony Pictures,Sony Pictures,2014,10000000,media,hacked,20,[]
+Twitch.tv,Twitch.tv,2014,10000000,healthcare,hacked,1,[]
+Korea Credit Bureau,Korea Credit Bureau,2014,20000000,financial,inside job,50000,[]
+AOL,AOL,2014,2400000,web,hacked,1,{}
+Home Depot,Home Depot,2014,56000000,retail,hacked,300,HD
+Target,Target,2014,70000000,retail,hacked,300,TGT
+JP Morgan Chase,JP Morgan Chase,2014,76000000,financial,hacked,300,JPM
+Ebay,Ebay,2014,145000000,web,hacked,1,EBAYL
+Yahoo,Yahoo,2014,500000000,web,hacked,20,AABA
+Invest Bank,Invest Bank,2015,40000,financial,hacked,50000,[]
+Uber,Uber,2015,50000,tech,poor security,1,[]
+IRS,IRS,2015,100000,government,hacked,1,IRS
+TalkTalk,TalkTalk,2015,157000,web,hacked,20,{}
+MSpy,MSpy,2015,400000,tech,hacked,20,{}
+Australian Immigration Department,Australian Immigration Department,2015,500000,government,accidentally published,50000,[]
+British Airways,British Airways,2015,500000,retail,hacked,1,[]
+Hacking Team,Hacking Team,2015,500000,web,hacked,50000,[]
+Slack,Slack,2015,500000,tech,hacked,1,[]
+Carefirst,Carefirst,2015,1100000,healthcare,hacked,1,[]
+CarPhone Warehouse,CarPhone Warehouse,2015,2700000,web,hacked,50000,{}
+Sanrio,Sanrio,2015,3300000,web,poor security,20,{}
+Adult Friend Finder,Adult Friend Finder,2015,3900000,web,hacked,1,[]
+US Office of Personnel Management,US Office of Personnel Management,2015,4000000,government,hacked,20,[]
+VTech,VTech,2015,6400000,web,hacked,50000,{}
+Premera,Premera,2015,11000000,healthcare,hacked,50000,[]
+Kromtech,Kromtech,2015,13000000,web,hacked,1,[]
+Experian / T-mobile,Experian / T-mobile,2015,15000000,web,hacked,300,[]
+US Office of Personnel Management (2nd Breach),US Office of Personnel Management (2nd Breach),2015,21500000,government,hacked,50000,[]
+AshleyMadison.com,AshleyMadison.com,2015,37000000,web,hacked,1,[]
+Securus Technologies,Securus Technologies,2015,70000000,web,hacked,50000,[]
+Deep Root Analytics,Deep Root Analytics,2015,198000000,web,poor security,20,[]
+Syrian government,Syrian government,2016,274477,government,hacked,1,[]
+Minecraft,Minecraft,2016,7000000,web,hacked,1,[]
+Mossack Fonseca,Mossack Fonseca,2016,11500000,legal,hacked,50000,[]
+Mail. ru,Mail. ru,2016,25000000,web,hacked,20,[]
+Fling,Fling,2016,40000000,web,hacked,4000,{}
+Turkish citizenship database,Turkish citizenship database,2016,49611709,government,hacked,20,[]
+Philippines’ Commission on Elections,Philippines’ Commission on Elections,2016,55000000,government,hacked,50000,[]
+Anthem ,Anthem ,2016,80000000,healthcare,hacked,20,ANTM
+VK,VK,2016,100544934,web,hacked,4000,VKTX
+Wendy's,Wendy's,2016,1025,retail,hacked,300,[]
+Mutuelle Generale de la Police,Mutuelle Generale de la Police,2016,112000,healthcare,inside job,50000,[]
+MySpace,MySpace,2016,164000000,web,hacked,1,[]
+Linux Ubuntu forums,Linux Ubuntu forums,2016,2000000,web,hacked,1,[]
+World Check,World Check,2016,2200000,media,poor security,300,[]
+uTorrent ,uTorrent ,2016,35000,web,hacked,1,[]
+Banner Health,Banner Health,2016,3700000,healthcare,hacked,300,[]
+Privatization Agency of the Republic of Serbia,Privatization Agency of the Republic of Serbia,2016,5190396,government,accidentally published,20,[]
+Quest Diagnostics,Quest Diagnostics,2017,34000,healthcare,hacked,4000,DGX
+Three,Three,2017,200000,telecoms,hacked,20,{}
+Wonga,Wonga,2017,270000,financial,hacked,50000,[]
+PayAsUGym,PayAsUGym,2017,300000,web,hacked,1,[]
+Red Cross Blood Service,Red Cross Blood Service,2017,550000,healthcare,accidentally published,4000,[]
+DaFont,DaFont,2017,700000,web,hacked,4000,[]
+Brazzers,Brazzers,2017,790724,web,hacked,4000,[]
+Snapchat,Snapchat,2017,1700000,app,hacked,1,[]
+Bell,Bell,2017,1900000,telecoms,hacked,1,CBB
+Cellebrite,Cellebrite,2017,3000000,tech,hacked,20,[]
+Clinton campaign,Clinton campaign,2017,5000000,government,hacked,20,[]
+ClixSense,ClixSense,2017,6600000,web,hacked,50000,[]
+Lynda.com,Lynda.com,2017,9500000,web,hacked,1,[]
+Interpark,Interpark,2017,10000000,web,hacked,20,{}
+Zomato,Zomato,2017,17000000,web,hacked,4000,[]
+Yahoo,Yahoo,2017,32000000,web,hacked,4000,AABA
+Weebly,Weebly,2017,43000000,web,hacked,4000,[]
+Dailymotion,Dailymotion,2017,85200000,web,hacked,1,[]
+Friend Finder Network,Friend Finder Network,2017,412000000,web,hacked,1,[]
+River City Media,River City Media,2017,1370000000,web,accidentally published,20,[]
+Telegram ,Telegram ,2017,15000000,tech,hacked,1,[]
+Waterly,Waterly,2017,1000000,app,poor security,300,[]
+CEX,CEX,2017,2000000,retail,accidentally published,300,{}
+Swedish Transport Agency,Swedish Transport Agency,2017,3000000,government,poor security,50000,[]
+Instagram,Instagram,2017,6000000,web,hacked,1,[]
+Equifax,Equifax,2017,143000000,financial,hacked,50000,EFX
+Spambot,Spambot,2017,711000000,web,poor security,4000,[]
