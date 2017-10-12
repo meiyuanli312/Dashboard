@@ -1,0 +1,300 @@
+0,8x8
+1,A10 Networks
+2,Abaxis
+3,Accuray
+4,Adobe Systems
+5,Advanced Micro Devices
+6,Aemetis
+7,Aerohive Networks
+8,Agilent Technologies
+9,Align Technology
+10,Alphabet
+11,Apple
+12,Applied Materials
+13,Applied Micro Circuits
+14,Arista Networks
+15,Aviat Networks
+16,Barracuda Networks
+17,Bio-Rad Laboratories
+18,Box
+19,Brocade Communications
+20,Cadence Design Systems
+21,Callidus Software
+22,Cavium
+23,Chegg
+24,Cisco Systems
+25,Coherent
+26,Coherus Biosciences
+27,Cypress Semiconductor
+28,Depomed
+29,Dolby Laboratories
+30,DSP Group
+31,eBay
+32,Electronic Arts
+33,Electronics for Imaging
+34,Equinix
+35,Exelixis
+36,Extreme Networks
+37,Facebook
+38,Fair Isaac
+39,FibroGen
+40,Finisar
+41,FireEye
+42,Fitbit
+43,Five9
+44,Formfactor
+45,Fortinet
+46,Genomic Health
+47,Gigamon
+48,Gilead Sciences
+49,Glu Mobile
+50,GoPro
+51,Guidewire Software
+52,Harmonic
+53,Hewlett Packard Enterprise
+54,Hortonworks
+55,HP
+56,Impax Laboratories
+57,Imperva
+58,In?nera
+59,Inphi
+60,Integrated Device Tech.
+61,Intel
+62,Intersil
+63,Intuit
+64,Intuitive Surgical
+65,InvenSense
+66,IXYS
+67,Jive Software
+68,Juniper Networks
+69,KLA-Tencor
+70,Lam Research
+71,LendingClub
+72,Linear Technology
+73,Lumentum Holdings
+74,Maxim Integrated Products
+75,MobileIron
+76,Monolithic Power Systems
+77,Nanometrics
+78,Natera
+79,Natus Medical
+80,Nektar Therapeutics
+81,NeoPhotonics
+82,NetApp
+83,Net?ix
+84,Netgear
+85,Nevro
+86,New Relic
+87,Nimble Storage
+88,Nutanix Inc
+89,Nvidia
+90,Oclaro
+91,Omnicell
+92,Oracle
+93,Palo Alto Networks
+94,Pandora Media
+95,PayPal Holdings
+96,Penumbra
+97,Power Integrations
+98,Proofpoint
+99,Pure Storage
+100,Qualys
+101,Quantum
+102,QuinStreet
+103,Quotient Technology
+104,Rambus
+105,RingCentral
+106,Rocket Fuel
+107,Salesforce.com
+108,Sanmina-SCI
+109,Sciclone Pharmaceuticals
+110,ServiceNow
+111,ServiceSource
+112,ShoreTel
+113,Shutter?y
+114,Sigma Designs
+115,Silver Spring Networks
+116,SolarCity
+117,Splunk
+118,Square
+119,SunPower
+120,Sunrun
+121,Super Micro Computer
+122,Symantec
+123,Synaptics
+124,Synnex
+125,Synopsys
+126,TeleNav
+127,Tesla
+128,TiVo
+129,Trimble Navigation
+130,Twilio Inc
+131,Twitter
+132,Ubiquiti Networks
+133,Ultra Clean
+134,Ultratech
+135,Varian Medical Systems
+136,Veeva Systems
+137,VeriFone Systems
+138,Viavi Solutions
+139,VMware
+140,WageWorks
+141,Workday
+142,Xilinx
+143,Xperi
+144,Yahoo
+145,Yelp
+146,YuMe
+147,Zeltiq Aesthetics
+148,Zendesk
+149,Zynga
+150,8x8
+151,A10 Networks
+152,Abaxis
+153,Accuray
+154,Adobe Systems
+155,Advanced Micro Devices
+156,Aemetis
+157,Aerohive Networks
+158,Agilent Technologies
+159,Align Technology
+160,Alphabet
+161,Apple
+162,Applied Materials
+163,Applied Micro Circuits
+164,Arista Networks
+165,Aviat Networks
+166,Barracuda Networks
+167,Bio-Rad Laboratories
+168,Box
+169,Brocade Communications
+170,Cadence Design Systems
+171,Callidus Software
+172,Cavium
+173,Chegg
+174,Cisco Systems
+175,Coherent
+176,Coherus Biosciences
+177,Cypress Semiconductor
+178,Depomed
+179,Dolby Laboratories
+180,DSP Group
+181,eBay
+182,Electronic Arts
+183,Electronics for Imaging
+184,Equinix
+185,Exelixis
+186,Extreme Networks
+187,Facebook
+188,Fair Isaac
+189,FibroGen
+190,Finisar
+191,FireEye
+192,Fitbit
+193,Five9
+194,Formfactor
+195,Fortinet
+196,Genomic Health
+197,Gigamon
+198,Gilead Sciences
+199,Glu Mobile
+200,GoPro
+201,Guidewire Software
+202,Harmonic
+203,Hewlett Packard Enterprise
+204,Hortonworks
+205,HP
+206,Impax Laboratories
+207,Imperva
+208,In?nera
+209,Inphi
+210,Integrated Device Tech.
+211,Intel
+212,Intersil
+213,Intuit
+214,Intuitive Surgical
+215,InvenSense
+216,IXYS
+217,Jive Software
+218,Juniper Networks
+219,KLA-Tencor
+220,Lam Research
+221,LendingClub
+222,Linear Technology
+223,Lumentum Holdings
+224,Maxim Integrated Products
+225,MobileIron
+226,Monolithic Power Systems
+227,Nanometrics
+228,Natera
+229,Natus Medical
+230,Nektar Therapeutics
+231,NeoPhotonics
+232,NetApp
+233,Net?ix
+234,Netgear
+235,Nevro
+236,New Relic
+237,Nimble Storage
+238,Nutanix Inc
+239,Nvidia
+240,Oclaro
+241,Omnicell
+242,Oracle
+243,Palo Alto Networks
+244,Pandora Media
+245,PayPal Holdings
+246,Penumbra
+247,Power Integrations
+248,Proofpoint
+249,Pure Storage
+250,Qualys
+251,Quantum
+252,QuinStreet
+253,Quotient Technology
+254,Rambus
+255,RingCentral
+256,Rocket Fuel
+257,Salesforce.com
+258,Sanmina-SCI
+259,Sciclone Pharmaceuticals
+260,ServiceNow
+261,ServiceSource
+262,ShoreTel
+263,Shutter?y
+264,Sigma Designs
+265,Silver Spring Networks
+266,SolarCity
+267,Splunk
+268,Square
+269,SunPower
+270,Sunrun
+271,Super Micro Computer
+272,Symantec
+273,Synaptics
+274,Synnex
+275,Synopsys
+276,TeleNav
+277,Tesla
+278,TiVo
+279,Trimble Navigation
+280,Twilio Inc
+281,Twitter
+282,Ubiquiti Networks
+283,Ultra Clean
+284,Ultratech
+285,Varian Medical Systems
+286,Veeva Systems
+287,VeriFone Systems
+288,Viavi Solutions
+289,VMware
+290,WageWorks
+291,Workday
+292,Xilinx
+293,Xperi
+294,Yahoo
+295,Yelp
+296,YuMe
+297,Zeltiq Aesthetics
+298,Zendesk
+299,Zynga
