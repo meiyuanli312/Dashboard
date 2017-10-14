@@ -1,3 +1,6 @@
+The Jupyter notebook file lin is: 
+https://github.com/meiyuanli312/Dashboard/blob/master/Lab4/SCU%20MSIS%20Program%20Attracts%20Prospective%20Students.ipynb
+
 For this Lab, I collected 6 datasets.
 
 First two data sets are MSIS curriculum page and skills scraped from a PDF published by Monster.com. These two are <b>integrated</b> into one data set specifys the skills MSIS program needs.
