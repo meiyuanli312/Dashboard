@@ -1,0 +1,151 @@
+,Name,NYSE Listed,NASDAQ Listed,Fortune 500
+0,8x8,0,1,0
+1,A10 Networks,1,0,0
+2,Abaxis,0,0,0
+3,Accuray,0,1,0
+4,Adobe Systems,0,1,1
+5,Advanced Micro Devices,0,1,0
+6,Aemetis,0,1,0
+7,Aerohive Networks,1,0,0
+8,Agilent Technologies,1,0,0
+9,Align Technology,0,1,0
+10,Alphabet,0,1,1
+11,Apple,1,1,1
+12,Applied Materials,0,1,1
+13,Applied Micro Circuits,0,0,0
+14,Arista Networks,1,0,0
+15,Aviat Networks,0,1,0
+16,Barracuda Networks,1,0,0
+17,Bio-Rad Laboratories,1,0,0
+18,Box,1,1,0
+19,Brocade Communications,0,1,0
+20,Cadence Design Systems,0,1,0
+21,Callidus Software,0,1,0
+22,Cavium,0,1,0
+23,Chegg,1,0,0
+24,Cisco Systems,0,1,1
+25,Coherent,0,1,0
+26,Coherus Biosciences,0,0,0
+27,Cypress Semiconductor,0,1,0
+28,Depomed,0,1,0
+29,Dolby Laboratories,1,0,0
+30,DSP Group,0,1,0
+31,eBay,0,1,1
+32,Electronic Arts,0,1,0
+33,Electronics for Imaging,0,1,0
+34,Equinix,0,1,0
+35,Exelixis,0,1,0
+36,Extreme Networks,0,1,0
+37,Facebook,0,1,1
+38,Fair Isaac,1,0,0
+39,FibroGen,0,1,0
+40,Finisar,0,1,0
+41,FireEye,0,1,0
+42,Fitbit,1,0,0
+43,Five9,0,1,0
+44,Formfactor,0,0,0
+45,Fortinet,0,1,0
+46,Genomic Health,0,1,0
+47,Gigamon,1,0,0
+48,Gilead Sciences,0,1,1
+49,Glu Mobile,0,1,0
+50,GoPro,0,1,0
+51,Guidewire Software,1,0,0
+52,Harmonic,0,1,0
+53,Hewlett Packard Enterprise,1,0,1
+54,Hortonworks,0,1,0
+55,HP,1,0,1
+56,Impax Laboratories,0,1,0
+57,Imperva,0,1,0
+58,In?nera,0,0,0
+59,Inphi,1,0,0
+60,Integrated Device Tech.,0,0,0
+61,Intel,1,1,1
+62,Intersil,0,0,0
+63,Intuit,0,1,0
+64,Intuitive Surgical,0,1,0
+65,InvenSense,0,0,0
+66,IXYS,0,1,0
+67,Jive Software,0,0,0
+68,Juniper Networks,1,0,0
+69,KLA-Tencor,0,1,0
+70,Lam Research,0,1,1
+71,LendingClub,1,0,0
+72,Linear Technology,0,0,0
+73,Lumentum Holdings,0,1,0
+74,Maxim Integrated Products,0,1,0
+75,MobileIron,0,1,0
+76,Monolithic Power Systems,0,1,0
+77,Nanometrics,0,1,0
+78,Natera,0,1,0
+79,Natus Medical,0,1,0
+80,Nektar Therapeutics,0,1,0
+81,NeoPhotonics,1,0,0
+82,NetApp,0,1,1
+83,Net?ix,0,0,0
+84,Netgear,0,0,0
+85,Nevro,1,0,0
+86,New Relic,1,0,0
+87,Nimble Storage,0,0,0
+88,Nutanix Inc,0,0,0
+89,Nvidia,0,0,1
+90,Oclaro,0,1,0
+91,Omnicell,0,1,0
+92,Oracle,1,0,1
+93,Palo Alto Networks,1,0,0
+94,Pandora Media,1,0,0
+95,PayPal Holdings,0,1,1
+96,Penumbra,1,0,0
+97,Power Integrations,0,1,0
+98,Proofpoint,0,1,0
+99,Pure Storage,1,0,0
+100,Qualys,0,1,0
+101,Quantum,1,0,0
+102,QuinStreet,0,1,0
+103,Quotient Technology,1,0,0
+104,Rambus,0,1,0
+105,RingCentral,0,0,0
+106,Rocket Fuel,0,0,0
+107,Salesforce.com,1,0,0
+108,Sanmina-SCI,0,0,0
+109,Sciclone Pharmaceuticals,0,0,0
+110,ServiceNow,1,0,0
+111,ServiceSource,0,1,0
+112,ShoreTel,0,0,0
+113,Shutter?y,0,0,0
+114,Sigma Designs,0,1,0
+115,Silver Spring Networks,1,0,0
+116,SolarCity,0,0,0
+117,Splunk,0,1,0
+118,Square,1,0,0
+119,SunPower,0,1,0
+120,Sunrun,0,1,0
+121,Super Micro Computer,0,1,0
+122,Symantec,0,1,1
+123,Synaptics,0,1,0
+124,Synnex,1,0,1
+125,Synopsys,0,1,0
+126,TeleNav,0,0,0
+127,Tesla,0,1,1
+128,TiVo,0,1,0
+129,Trimble Navigation,0,0,0
+130,Twilio Inc,1,0,0
+131,Twitter,1,0,0
+132,Ubiquiti Networks,0,1,0
+133,Ultra Clean,0,1,0
+134,Ultratech,0,0,0
+135,Varian Medical Systems,1,0,0
+136,Veeva Systems,1,0,0
+137,VeriFone Systems,0,0,0
+138,Viavi Solutions,0,1,0
+139,VMware,0,0,0
+140,WageWorks,1,0,0
+141,Workday,0,1,0
+142,Xilinx,0,1,0
+143,Xperi,0,1,0
+144,Yahoo,0,0,1
+145,Yelp,1,0,0
+146,YuMe,1,0,0
+147,Zeltiq Aesthetics,0,0,0
+148,Zendesk,1,0,0
+149,Zynga,0,1,0
