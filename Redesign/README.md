@@ -1,6 +1,6 @@
 # Visulization Redesign 
 [**Tableau Public Link** ](https://public.tableau.com/views/Book2_18545/FatData?:embed=y&:display_count=yes&publish=yes)  
-[**Jupyter Notebook Link**] (www.google.com)
+[**Jupyter Notebook Link**](https://github.com/meiyuanli312/Dashboard/blob/master/Redesign/Redesign%20-%20Meiyuan%20Li.ipynb)
 
 This README file contains the following project delieverables
 
