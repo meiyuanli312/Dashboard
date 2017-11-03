@@ -154,17 +154,23 @@ Work left for the final visualization:
 ### 5 & 6 Intermediate visualization for the fifth and sixth chart (Fly Phase Chart)
 
 Use table to overview the data
+
 ![](pics/19.png)
 
+
+
 Group the overlapped values into different groups
+
 ![](pics/20.png)
 
 Arrange the phase manually because Tableau do not know the sequence of how airplane works.  
 
 Draw a bar chart first.
+
 ![](pics/21.png)
 
 Take out criminal related data 
+
 ![](pics/22.png)
 
 
