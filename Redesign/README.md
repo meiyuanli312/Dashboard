@@ -6,10 +6,10 @@ This README file contains the following project delieverables
 
 1. [Project statement](#1)
 2. ['Making-of' documentation](#2)
-3. [Intermediate visualization prototypes] (#3)
-4. [Final data visualization] (#4)
-5. [Road map with future features] (#5)
-6. [Showcase video] (#6)
+3. [Intermediate visualization prototypes](#3)
+4. [Final data visualization](#4)
+5. [Road map with future features](#5)
+6. [Showcase video](#6)
 
 ## <a name="1"></a>Project Statment 
 ### Motivation 
