@@ -1,5 +1,5 @@
 # Visulization Redesign 
-[**Tableau Public Link** ](https://public.tableau.com/views/Book2_18545/FatData?:embed=y&:display_count=yes&publish=yes)  
+[**Tableau Public Link** ](https://public.tableau.com/shared/NCTY82DCF?:display_count=yes)  
 [**Jupyter Notebook Link**](https://github.com/meiyuanli312/Dashboard/blob/master/Redesign/Redesign%20-%20Meiyuan%20Li.ipynb)
 
 This README file contains the following project delieverables
@@ -209,4 +209,5 @@ Also,link pilot error and crew error under human error with airline companies. B
 
 
 ## <a name="6"></a>Showcase video 
+[Youtuble link](https://youtu.be/wJ1aC84UQs4)
 
