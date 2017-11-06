@@ -2,6 +2,8 @@
 ### Improved visualization
 [Tableau Public Link](https://public.tableau.com/profile/meiyuan.li#!/vizhome/Lab6_35/FinancialMarkets?publish=yes)
 
+![](Dashboard.png)
+
 
 ### Critique on visualization of Lab 3
 
