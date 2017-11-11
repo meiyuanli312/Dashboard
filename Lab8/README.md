@@ -1,5 +1,8 @@
 # Lab 8
 
+[Link to Tableau Public](https://public.tableau.com/views/MetricsIntegrated/Dashboard1?:embed=y&:display_count=yes&publish=yes)
+
+
 Screen shot for the visualization
 
 ![](Lab8.png)
