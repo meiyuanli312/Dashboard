@@ -2,7 +2,7 @@
 
 Screen shot for the visualization
 
-![](lab8.png)
+![lab8](lab8.png)
 
 ## Critiques on my visualization  
 This visualization is really raw.
