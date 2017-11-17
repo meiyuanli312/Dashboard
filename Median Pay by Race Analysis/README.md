@@ -42,7 +42,8 @@ I found a spread sheet on the Internet titled 'Salary By Race and Sex'
  
 ## <a name="2"></a>'Making-of' Document
 ### 1. Development Proces
-1.1 The data I collected is from 2002 to 2011 US Median Salary by SEX and Race.First I extracted the data I needed in excel and add a new row 'All Minority' for every year.  
+1.1 The data I collected is from 2002 to 2011 US Median Salary by SEX and Race.  
+First I extracted the data I needed in excel and add a new row 'All Minority' for every year.  
 It looks like this:
 ![](pics/1.png)
 ![](pics/2.png)
@@ -85,7 +86,8 @@ Rearrange the columns![](pics/17.png)
 Reading the raw data only, I found that the Asian American earn the most. Then White, African American, Hispanic/Latino follow for all the years that I have collected data for.![](pics/18.png)It appears to me that there must be some reason behind the differences and the reason is not discrimination because clearly Asian as one of the minority groups outearn White American.And it didn’t happen for just one year but (at least) for the years I’ve collected data for.So, the deceptive/opposite claim would be ‘There is discrimination among races when it comes to your paycheck.To achieve this purpose, I would average all three minority groups’ salary and compare it with 'White'.Like this table:![](pics/19.png)Now White has more salary than all minority groups.The other side of claim would be what the original data suggested 'There is no discrimination among races when it comes to your paycheck'.
 ### 4. Detours
 
-I felt that I was not confident enough to say 'There is absolutely no discrimination' because even though Asian outearn White, there are still two minority groups make less money than White. What if the discrimination lies just in these two groups?  I dug a little deeper and found out some article saying that because Asian are more likely to stay at Management job whereas the other two stayed at relatively low-paying jobs. The reason behind this is probably education. I tried to incorporate this data in but didn’t succeed.Instead, I pivoted the focus to 'Gender'.  After rearranging data Tableau, I was able to detect that 'Race matters less when it comes to your paycheck'.![](pics/20.png)
+I felt that I was not confident enough to say 'There is absolutely no discrimination' because even though Asian outearn White, there are still two minority groups make less money than White. What if the discrimination lies just in these two groups?  I dug a little deeper and found out some article saying that because Asian are more likely to stay at Management job whereas the other two stayed at relatively low-paying jobs. The reason behind this is probably education. I tried to incorporate this data in but didn’t succeed.Instead, I pivoted the focus to 'Gender'.  
+After rearranging data in Tableau, I was able to detect that 'Race matters less when it comes to your paycheck'.![](pics/20.png)
 
 Later I realized it still says 'Race matters'! Hence, discrimination still exists.So, this is removed from the final visualization.
 
@@ -98,7 +100,7 @@ The visualization itself is not difficult to achieve.I put year on the X axis 
 
 Then I thought the audience would've asked the question 'Where did the Asian go'? So, I averaged these three minority groups.![](pics/22.png)
 
-Then I realized that showing 'All Minority' with 'African American' and 'Hispanic/Latino' would have the audience suspect these must be a minority earn a higher income than these two, otherwise the line would be higher than those two. I wonder what other groups are behind this line chart?So, for the final Visualization, I removed 'African American' and 'Hispanic/Latino' too and left 'White' and 'All Minority' only.### 2. Opposite Claim: There Is No Discrimination Against Minority Groups When It Comes To Your Paycheck Per Se Because White Doesn’t Outearn All Minority GroupsCorresponding with the deceptive claim, my initial attempt for this claim would be leaving only Asian and White on the chart.![](pics/23.png)
+Then I realized that showing 'All Minority' with 'African American' and 'Hispanic/Latino' would have the audience suspect 'there must be a minority earn a higher income than these two, otherwise the line would be higher than those two. I wonder what other groups are behind this line chart'?So, for the final Visualization, I removed 'African American' and 'Hispanic/Latino' too and left 'White' and 'All Minority' only.### 2. Opposite Claim: There Is No Discrimination Against Minority Groups When It Comes To Your Paycheck Per Se Because White Doesn’t Outearn All Minority GroupsCorresponding with the deceptive claim, my initial attempt for this claim would be leaving only Asian and White on the chart.![](pics/23.png)
 
 The same question applies here. Where are the African American and Latino group?So, for the final visualization, I put all groups on the chart and used a very long and descriptive title 'There is no discrimination against minority groups when it comes to your paycheck per se because White group doesn't out earn all minority groups.'
 ## <a name="4"></a> Final Data Visualization
@@ -123,7 +125,7 @@ Then multiply these two tables
 And finally, use the number  for each group and divide the total median pay:
 ![](pics/29.png)
 
-And do the above for year 2002 to 2001.If the proportion of Asian's and White's at Bachelor’s Degree and Advanced Degree are higher than African American and Hispanic/Latino, then we can confidently see there is no racial discrimination when it comes to your paycheck. The difference is caused by education background and occupation selection which is also majorly caused by education.
+And do the above for year 2002 to 2001.If the proportion of Asian's and White's at Bachelor’s Degree and Advanced Degree are higher than African American and Hispanic/Latino, then we can confidently say there is no racial discrimination when it comes to your paycheck. The difference is caused by education background and occupation selection which is also majorly caused by education.
 
 ## <a name="6"></a>Showcase video 
 [Youtuble link](https://youtu.be/wJ1aC84UQs4)
