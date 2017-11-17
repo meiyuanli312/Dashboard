@@ -4,7 +4,7 @@
 [**Tableau Public Link To The Rebuttal Claim** ](https://public.tableau.com/views/Deceptive/NoDiscrimination?:embed=y&:display_count=yes&publish=yes&:toolbar=no) 
 
  
-[**Jupyter Notebook Link**](https://github.com/meiyuanli312/Dashboard/blob/master/Redesign/Redesign%20-%20Meiyuan%20Li.ipynb)
+[**Jupyter Notebook Link**](https://github.com/meiyuanli312/Dashboard/blob/master/Median%20Pay%20by%20Race%20Analysis/Median%20U.S.%20Annual%20Salary%20by%20Race%20Analysis.ipynb)
 
 This README file contains the following project delieverables
 
