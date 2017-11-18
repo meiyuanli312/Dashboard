@@ -2,27 +2,30 @@
 
 # Lab 9
 
-[Link to Tableau Public](https://public.tableau.com/views/IntegratedVis/IntegratedDashboard?:embed=y&:display_count=yes&publish=yes)
+[Link to Tableau Public](https://public.tableau.com/profile/meiyuan.li#!/vizhome/IntegratedVis/IntegratedDashboard?publish=yes)
+
+Screenshot 
+![](1.png)
 
 
 ## Critiques on my previous visualization  
 **Lab 5 Visualization**
-![](1.png)
+![](2.png)
 
 Only MSIS program's data is shown here. 
-No comparsion to indicate whether 0.6 is high or low.
+No comparison to indicate whether 0.6 is high or low.
 
 
 
 ## Roadmap for improvement
 
-Integrate two metrics together to develop a scatter plot.
+1. Integrate two metrics together to develop a scatter plot.
 
-Find more data point to comparsion.
+2. Find more data point to comparison.
 
-If time permits, I would search on top 10 ranking MSIS' program's curriculum and compute their coverage. 
+3. If time permits, I would search on top 10 ranking MSIS' program's curriculum and compute their coverage. 
 
-Also, I can compare with California MSIS program's coverage.
+4. Also, I can compare with California MSIS program's coverage.
 
 
 ## Improved Visualization  
