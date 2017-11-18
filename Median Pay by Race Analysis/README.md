@@ -112,7 +112,7 @@ The same question applies here. Where are the African American and Latino group?
  
 Improvement made from intermediate visualizations:  
 
-1. Changed the title to make it personal.
+1. Changed the title to make it personal
 2. Cut the salary range to [2000, max]
 4. Annotate their latest Median Salary
  
