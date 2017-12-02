@@ -1,11 +1,11 @@
-# Lab 8
 
-[Link to Tableau Public](https://public.tableau.com/views/MetricsIntegrated/Dashboard1?:embed=y&:display_count=yes&publish=yes)
+
+# Lab 9
+
+[Link to Tableau Public](https://public.tableau.com/profile/meiyuan.li#!/vizhome/Book1_24039/Recruters)
  
 
-Screen shot for the visualization
 
-![](Lab8.png)
 
 ## Critiques on my previous visualization  
 **Lab 5 Visualization**
